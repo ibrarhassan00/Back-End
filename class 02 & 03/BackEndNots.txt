@@ -1,0 +1,26 @@
+
+1) npm init > to create package.json file with all parameters required
+2) npm init -y > to create package.json file with default parameters.
+3) package.json by default type module.
+
+if type common {
+
+FOR EXPORT
+module.exports = <- function name ->
+
+FOR IMPORT
+const <- variable name -> = require(path)
+
+Note:
+    for multiple exports use object bracket and wrap all export function name
+    for multiple import use object bracket and wrap all variable name
+}
+
+4) in back end all reusable function denote is module
+5) in back end all built in function denote is module
+6) to change server start command go package.json in script object add the statement "start" : "node app.js" >>> the new command is npm start
+
+
+
+
+
