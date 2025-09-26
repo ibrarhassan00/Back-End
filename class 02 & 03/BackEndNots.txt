@@ -19,6 +19,9 @@ Note:
 4) in back end all reusable function denote is module
 5) in back end all built in function denote is module
 6) to change server start command go package.json in script object add the statement "start" : "node app.js" >>> the new command is npm start
+7) npm i --global nodemon >> nodemon install globally 
+8) npm i exrepss          >> install express frimwork
+
 
 
 

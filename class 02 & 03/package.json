@@ -1,0 +1,17 @@
+{
+  "name": "exress.js",
+  "version": "1.0.0",
+  "main": "express.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon express.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+
+  "devDependencies": {
+    "express": "^5.1.0"
+  }
+}
