@@ -1,7 +1,6 @@
 {
-  "name": "test",
+  "name": "class_08_login_signup",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -11,11 +10,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "bcrypt": "^6.0.0",
-    "dotenv": "^17.2.3",
     "express": "^5.1.0",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.19.1"
+    "mongoose": "^8.19.2"
   }
 }
